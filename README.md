@@ -1,2 +1,3 @@
-# 0x48piraj.github.io
-Piyush Raj | 0x48piraj Personal Website hosted on Github
+# Personal Website - 0xOS
+
+This is the website which depicts my **Open Source Journey**. (https://0x48piraj.github.io)
